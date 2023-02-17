@@ -1,0 +1,68 @@
+.body {
+    font-family: 'Babylonica', cursive;
+}
+
+
+.banner-img {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    margin-top: 40px;
+    
+}
+
+.btn {
+    background-color: #006d77;
+    font-size: 18px;
+}
+.btn:hover{
+    background-color: #3a11d1;   
+}
+h6 {
+    font-size: 20px;
+    font-weight: 700;
+    text-shadow: 5px 5px 5px #060606;
+    text-align: center;
+}
+.banner-title {
+    font-size: 65px;
+    font-weight: 700;
+    text-shadow: 5px 5px 5px #060606;
+    text-align: center;
+}
+.banner-subtitle{
+    font-size: 30px;
+    text-align: center;
+    color: #872907;
+    text-shadow: 5px 5px 5px #3d1e02;
+
+}
+p{
+    font-weight: 600;
+    
+}
+.card:hover .cours-img {
+transform: scale(1.2);
+}
+
+h3 {
+    text-shadow: 5px 5px 5px #060606;
+
+}
+
+.cours-img {
+    transition: all .7s;
+}
+.card {
+    overflow: hidden;
+    margin-bottom: 40px;
+    
+}
+.card-body {
+    text-align: center;
+}
+
+h5 {
+    font-weight: 800;
+}
